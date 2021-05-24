@@ -10,4 +10,4 @@ The article covers the main and most-used features of the Sklearn library:
 4. Classification
 5. Dimensionality Reduction
 
-The article link will be uploaded here upon release.
+The article can be found here: https://algotrading101.com/learn/sklearn-guide/
