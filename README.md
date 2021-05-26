@@ -11,3 +11,11 @@ The article covers the main and most-used features of the Sklearn library:
 5. Dimensionality Reduction
 
 The article can be found here: https://algotrading101.com/learn/sklearn-guide/
+
+-----------
+Info
+-----------
+
+| Author | Igor Radovanovic
+--- | ---
+| Published | May 14, 2021
